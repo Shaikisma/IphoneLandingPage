@@ -18,7 +18,8 @@ const Jumbotron = () => {
       <img src={Iphone} alt="iPhone 14 Pro" className="logo" />
       <p className="text">Big and bigger.</p>
       <span className="description">
-        From $41.62/mo. for 24 mo. or $999 before trade-in
+      From ₹3,457.22/mo. for 24 months or ₹83,016.90 before trade-in.
+
       </span>
 
       <ul className="links">
